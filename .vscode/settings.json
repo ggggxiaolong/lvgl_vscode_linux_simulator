@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "lvgl.h": "c",
+        "monitor.h": "c",
+        "mousewheel.h": "c",
+        "lv_demos.h": "c",
+        "sdl_common.h": "c",
+        "lv_examples.h": "c",
+        "sdl.h": "c",
+        "sdl_gpu.h": "c"
+    }
+}
