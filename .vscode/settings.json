@@ -7,6 +7,13 @@
         "sdl_common.h": "c",
         "lv_examples.h": "c",
         "sdl.h": "c",
-        "sdl_gpu.h": "c"
+        "sdl_gpu.h": "c",
+        "lv_draw_sdl.h": "c",
+        "lv_disp.h": "c",
+        "lv_conf_internal.h": "c",
+        "lv_draw.h": "c",
+        "lv_draw_sw.h": "c",
+        "style.h": "c",
+        "anim.h": "c"
     }
 }

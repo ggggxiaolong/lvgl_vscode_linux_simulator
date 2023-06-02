@@ -53,6 +53,9 @@ default: $(OBJECTS)
 clean:
 	rm -rf $(WORKING_DIR)
 
-install: ${BIN}
+install: ${all}
 	install -d ${DESTDIR}/usr/lib/${PROJECT}/bin
 	install $< ${DESTDIR}/usr/lib/${PROJECT}/bin/
+
+run: ${BIN}
+	$(BIN_DIR)/demo
